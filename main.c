@@ -1,4 +1,3 @@
-//Assignment 3 file main.c By Prayanshu Narayan S#101144277
 #include <stdio.h>
 #include <string.h>
 
