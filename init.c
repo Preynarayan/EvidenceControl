@@ -1,4 +1,3 @@
-//Assignment 3 file init.c By Prayanshu Narayan S#101144277
 #include "defs.h"
 
 
