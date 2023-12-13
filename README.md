@@ -1,5 +1,3 @@
-Name: Prayanshu Narayan S# 101144277
-
 Description of program:
 This program is meant for the Carleton University Ghost hunting society. It
 prompts the user for pairwise data which represents data collected during a ghost hunt
